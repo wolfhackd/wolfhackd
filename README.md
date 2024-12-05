@@ -1,11 +1,3 @@
--Meu apelido é "wolfhackd", meu nome real é Mauro e tenho vinte anos.
--No momento, sou apenas um pequeno entusiasta curioso pelo incrível mundo 
-da programação, com o objetivo de alcançar a tão sonhada liberdade por 
-meio de todas as tecnologias, ou seja, me tornar um FullStack Developer.
---Este deve ser mais um dos meus repositórios. Aproveite o conteúdo! :D  ---
-
-
-
-
- 
-   
+Olá, sou o Mauro!
+Tenho 20 anos e estou me formando em Análise e Desenvolvimento de Sistemas.
+Ao longo da minha jornada, tenho me dedicado a diversos projetos de programação e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Aqui, você encontrará alguns dos meus projetos, onde estou aplicando o conhecimento adquirido e desenvolvendo soluções criativas.
