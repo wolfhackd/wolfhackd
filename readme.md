@@ -1,25 +1,23 @@
 ## Hello! I'm wolfhackd(Mauro) 👓
-
-I'm studying to be a FullStack developer.<br>
-Here I have some projects done following this path. Enjoy!!
-
-<hr>
-
-You can find me here 👇:
-
-<div>
- <a href="https://www.linkedin.com/in/mauro-leal-b1134425a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
- </a>
- <a href="https://www.instagram.com/mauroo_leal/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Instagram"/>
- </a>
- <hr>
+<div display=flex>
+ <div>
+ I'm studying to be a FullStack developer.<br>
+ Here I have some projects done following this path. Enjoy!!
+ </div>
+ 
+ You can find me here 👇:
+ 
+ <div display=flex>
+  <a href="https://www.linkedin.com/in/mauro-leal-b1134425a/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/mauroo_leal/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Instagram"/>
+  </a>
+ <div> 
+   <img align="center" src="https://64.media.tumblr.com/tumblr_m2eie7TGjX1qg6rkio1_500.gifv" alt="Send me a coffee" width=320 />
+  <hr>
 </div>
-
-<br>
-
-<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wolfhackd&theme=dark&show_icons=true" />
   </a>
