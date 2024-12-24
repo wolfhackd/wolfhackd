@@ -1,6 +1,16 @@
 ## Olá! Eu sou wolfhackd(Mauro)
-
-##
+<hr>
+You can find me here 👇:
+<div>
+<a href="https://www.linkedin.com/in/mauro-leal-b1134425a/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+<a href="" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Linkedin"/>
+</a>
+  <hr>
+</div>
+<br>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wolfhackd&theme=dark&show_icons=true" />
