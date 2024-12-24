@@ -3,6 +3,7 @@
  <div>
  I'm studying to be a FullStack developer.<br>
  Here I have some projects done following this path. Enjoy!!
+  <br><br>
  </div>
  
  You can find me here 👇:
@@ -15,6 +16,7 @@
    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Instagram"/>
   </a>
  <div> 
+  <hr>
    <img align="center" src="https://64.media.tumblr.com/tumblr_m2eie7TGjX1qg6rkio1_500.gifv" alt="Send me a coffee" width=320 />
   <hr>
 </div>
