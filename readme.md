@@ -1,16 +1,24 @@
-## Olá! Eu sou wolfhackd(Mauro)
+## Hello! I'm wolfhackd(Mauro) 👓
+
+I'm studying to be a FullStack developer.<br>
+Here I have some projects done following this path. Enjoy!!
+
 <hr>
+
 You can find me here 👇:
+
 <div>
-<a href="https://www.linkedin.com/in/mauro-leal-b1134425a/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
-<a href="" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Linkedin"/>
-</a>
-  <hr>
+ <a href="https://www.linkedin.com/in/mauro-leal-b1134425a/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+ </a>
+ <a href="https://www.instagram.com/mauroo_leal/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&instagram&color=blue" alt="Instagram"/>
+ </a>
+ <hr>
 </div>
+
 <br>
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wolfhackd&theme=dark&show_icons=true" />
@@ -19,11 +27,21 @@ You can find me here 👇:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfhackd&layout=donut&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
+
 <br>
-<div display= flex>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=30 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=30 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=30 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=30 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=30 height=40 />
-</div>
+
+# Tech Stack
+
+<div align="center"><br>
+
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ </div>
